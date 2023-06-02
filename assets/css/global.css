@@ -1,0 +1,15 @@
+:root{
+
+}
+
+.align-center{
+    align-items:center;
+}
+
+.justify-between{
+    justify-content:space-between;
+}
+
+.bg-black-me{
+    background-color:#000000;
+}
